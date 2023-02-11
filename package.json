@@ -1,17 +1,17 @@
 {
-  "name": "vanilla-app-template",
+  "name": "test",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vanilla-app-template/",
+    "build": "vite build --base=/test/",
     "preview": "vite preview"
   },
   "devDependencies": {
     "vite": "^4.0.0"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "TarasMysiura <TarasMysiura@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "vite-plugin-html-inject": "^1.0.1"
